@@ -1,8 +1,64 @@
 [
     {
-        "title": "rr",
-        "due_date": "12345678",
+        "id": 1,
+        "username": "emma",
+        "title": "sweep",
+        "description": "good work",
+        "due_date": "2026-04-01T00:00:00",
+        "priority": "Medium",
+        "status": "Pending",
+        "archived": false
+    },
+    {
+        "id": 5,
+        "username": "bolu",
+        "title": "buy data",
+        "description": "ssnks",
+        "due_date": "",
+        "priority": "Unknown",
+        "status": "Pending",
+        "archived": false
+    },
+    {
+        "id": 5,
+        "username": "emma",
+        "title": "finale",
+        "description": "THe end aof a particular movie",
+        "due_date": "2024-12-12T00:00:00",
+        "priority": "Unknown",
+        "status": "Pending",
+        "archived": false
+    },
+    {
+        "id": 4,
+        "username": "bolu",
+        "title": "read",
+        "description": "yyyy",
+        "due_date": "2025-12-21T00:00:00",
+        "priority": "High",
+        "status": "Pending",
+        "archived": false
+    },
+    {
+        "id": 5,
+        "username": "rose",
+        "title": "weep",
+        "description": "www",
+        "due_date": "2025-09-12T00:00:00",
         "priority": "Low",
-        "status": "Pending"
+        "status": "Pending",
+        "archived": false,
+        "created_at": "2025-08-04T00:31:33.651945"
+    },
+    {
+        "id": 6,
+        "username": "rose",
+        "title": "eat",
+        "description": "ee",
+        "due_date": "2026-09-12T00:00:00",
+        "priority": "High",
+        "status": "Pending",
+        "archived": false,
+        "created_at": "2025-08-04T00:34:34.451193"
     }
 ]
